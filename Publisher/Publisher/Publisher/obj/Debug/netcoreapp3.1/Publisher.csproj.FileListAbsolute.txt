@@ -1,0 +1,17 @@
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\bin\Debug\netcoreapp3.1\Publisher.exe
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\bin\Debug\netcoreapp3.1\Publisher.deps.json
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.json
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.dev.json
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\bin\Debug\netcoreapp3.1\Publisher.dll
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\bin\Debug\netcoreapp3.1\Publisher.pdb
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.AssemblyReference.cache
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\obj\Debug\netcoreapp3.1\Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CopyComplete
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb
+C:\Users\118069\Documents\GitHub\Projeto-Console-HabbitMQ\Publisher\Publisher\Publisher\obj\Debug\netcoreapp3.1\Publisher.genruntimeconfig.cache

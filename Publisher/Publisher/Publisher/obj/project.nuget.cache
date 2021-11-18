@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4G5hSNKyD1dPPSh560B1v/uM82fAb+fYrXmkkCVC9TG5Rn6gJWVbbTQPI2ZQ8kmgNWug9chzCo50BVVjfuAQIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\118069\\Documents\\GitHub\\Projeto-Console-HabbitMQ\\Publisher\\Publisher\\Publisher\\Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\118069\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\118069\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\118069\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
