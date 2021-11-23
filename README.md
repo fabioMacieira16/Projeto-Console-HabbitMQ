@@ -10,12 +10,12 @@
 - *Framework:* .NET Core
 
 **Requisitos**:
-	- Visual Studio ou Visual Code 
+    - Visual Studio ou Visual Code 
     - versão .net 5
     - Chocolatey
 
-**Procedimento**
-# Instalação do Chocolatey:
+# Procedimento
+**Instalação do Chocolatey:**
 - link: https://chocolatey.org/install 
 - Executar o comando no PowerShell modo adminstrador: Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 - Em seguida, Executar o comando: choco install rabbitmq
