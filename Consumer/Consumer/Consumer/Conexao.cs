@@ -19,7 +19,7 @@ namespace Consumer
                 HostName = hostName,
             };
 
-            //Cria uma conexçao 
+            //Cria uma conexão 
             IConnection connection = factory.CreateConnection();
 
             //Cria um canal de comunicação com RabbitMQ
